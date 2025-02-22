@@ -6,7 +6,7 @@ This package simplifies the extraction of data from OLX websites ([olx.ua](https
 
 First you need to download this package to your computer system by doing this command:
 
-    pip install OlxPy
+    git clone https://github.com/Vladislavus1/OlxPy.git
 
 Now it's ready to work. In your python file, you'll need to import this package:
 
